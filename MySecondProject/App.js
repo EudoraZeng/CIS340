@@ -18,13 +18,12 @@ export default function MultiComp(){
       flex: 1,
       justifyContent: 'center',
       alignItems: 'center'
-      
     }}>
       <Text> Welcome to My Class </Text>
       <MyApp/>
       <MyApp/>
       <MyApp/>
       <MyApp/>
-    </View>
+     </View>
   )
 }
